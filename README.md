@@ -1,8 +1,10 @@
 # JavaScript-Assignment-Arrays
 Assignment using Arrays in JavaScript
 
-## Get elements from start of an array
-Write a JavaScript function called *first* to get elements from the beginning of an array. Passing a parameter 'n' will return the first 'n' elements of the array containing [7,9,0,-2]
+## Get elements from start of an array
+Write a JavaScript function called 'first' to get elements from the beginning of an array. 
+
+Passing a parameter 'n' will return the first 'n' elements of the array containing [7,9,0,-2]
 
 Examples with Data : 
 ```javascript
@@ -33,8 +35,9 @@ HINTS:
 * Use ```document.getElementById("text1").value``` to get the text entered by the user to add to the list
 * Use ```document.getElementById("Result").innerHTML = textRepresentationOfYourItems``` do display your list in the HTML page.
 
+BONUS: Make you version list the items each time an item is added
+
 ```html
-<!DOCTYPE html>
 <!DOCTYPE html>
 <html>
 <head>
